@@ -1,0 +1,94 @@
+﻿  BackTrans.cpp
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“NetState”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(125): warning C4091: “typedef ”: 没有声明变量时忽略“Tree”的左侧
+  CnectFather.cpp
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“NetState”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(125): warning C4091: “typedef ”: 没有声明变量时忽略“Tree”的左侧
+  CnectSon.cpp
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“NetState”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(125): warning C4091: “typedef ”: 没有声明变量时忽略“Tree”的左侧
+  CnectTwin.cpp
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“NetState”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(125): warning C4091: “typedef ”: 没有声明变量时忽略“Tree”的左侧
+  Completecrosslinkedlist .cpp
+e:\reinforce learning\timenet2statetree\timenet2statetree\completecrosslinkedlist .cpp(59): warning C4101: “k”: 未引用的局部变量
+e:\reinforce learning\timenet2statetree\timenet2statetree\completecrosslinkedlist .cpp(59): warning C4101: “i”: 未引用的局部变量
+  CreateNextNode.cpp
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“NetState”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(125): warning C4091: “typedef ”: 没有声明变量时忽略“Tree”的左侧
+  CreateNode.cpp
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“NetState”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(125): warning C4091: “typedef ”: 没有声明变量时忽略“Tree”的左侧
+  DataRead.cpp
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“NetState”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(125): warning C4091: “typedef ”: 没有声明变量时忽略“Tree”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\dataread.cpp(32): warning C4477: “fscanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“short *”
+  e:\reinforce learning\timenet2statetree\timenet2statetree\dataread.cpp(32): note: 请考虑在格式字符串中使用“%hd”
+e:\reinforce learning\timenet2statetree\timenet2statetree\dataread.cpp(92): warning C4477: “fscanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“short *”
+  e:\reinforce learning\timenet2statetree\timenet2statetree\dataread.cpp(92): note: 请考虑在格式字符串中使用“%hd”
+e:\reinforce learning\timenet2statetree\timenet2statetree\dataread.cpp(139): warning C4477: “fscanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“short *”
+  e:\reinforce learning\timenet2statetree\timenet2statetree\dataread.cpp(139): note: 请考虑在格式字符串中使用“%hd”
+e:\reinforce learning\timenet2statetree\timenet2statetree\dataread.cpp(131): warning C4101: “line”: 未引用的局部变量
+  deleteSameNode.cpp
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“NetState”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(125): warning C4091: “typedef ”: 没有声明变量时忽略“Tree”的左侧
+  destory.cpp
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“NetState”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(125): warning C4091: “typedef ”: 没有声明变量时忽略“Tree”的左侧
+  FindGMin.cpp
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“NetState”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(125): warning C4091: “typedef ”: 没有声明变量时忽略“Tree”的左侧
+  FireInterval.cpp
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“NetState”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(125): warning C4091: “typedef ”: 没有声明变量时忽略“Tree”的左侧
+  GoalH.cpp
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“NetState”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(125): warning C4091: “typedef ”: 没有声明变量时忽略“Tree”的左侧
+  InitialReachTree.cpp
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“NetState”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(125): warning C4091: “typedef ”: 没有声明变量时忽略“Tree”的左侧
+  InitialRootNode.cpp
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“NetState”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(125): warning C4091: “typedef ”: 没有声明变量时忽略“Tree”的左侧
+  IsDeadlock.cpp
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“NetState”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(125): warning C4091: “typedef ”: 没有声明变量时忽略“Tree”的左侧
+  IsEnable.cpp
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“NetState”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(125): warning C4091: “typedef ”: 没有声明变量时忽略“Tree”的左侧
+  IsGoal.cpp
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“NetState”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(125): warning C4091: “typedef ”: 没有声明变量时忽略“Tree”的左侧
+  isNewNode.cpp
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“NetState”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(125): warning C4091: “typedef ”: 没有声明变量时忽略“Tree”的左侧
+  JudgeGoal.cpp
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“NetState”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(125): warning C4091: “typedef ”: 没有声明变量时忽略“Tree”的左侧
+  正在生成代码...
+e:\reinforce learning\timenet2statetree\timenet2statetree\initialreachtree.cpp(28): warning C4172: 返回局部变量或临时变量的地址: Tree
+  正在编译...
+  optimal.cpp
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“NetState”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(125): warning C4091: “typedef ”: 没有声明变量时忽略“Tree”的左侧
+  OutPut.cpp
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“NetState”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(125): warning C4091: “typedef ”: 没有声明变量时忽略“Tree”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\output.cpp(119): warning C4477: “fprintf”: 格式字符串“%.2f”需要类型“double”的参数，但可变参数 2 拥有了类型“int”
+e:\reinforce learning\timenet2statetree\timenet2statetree\output.cpp(431): warning C4244: “=”: 从“float”转换到“short”，可能丢失数据
+  TimeNet2stateTree.cpp
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“NetState”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(125): warning C4091: “typedef ”: 没有声明变量时忽略“Tree”的左侧
+  Tree2HStar.cpp
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“NetState”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(125): warning C4091: “typedef ”: 没有声明变量时忽略“Tree”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\tree2hstar.cpp(398): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  UpdateM.cpp
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“NetState”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(125): warning C4091: “typedef ”: 没有声明变量时忽略“Tree”的左侧
+  updateResidenceTime.cpp
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“NetState”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\treenode.h(125): warning C4091: “typedef ”: 没有声明变量时忽略“Tree”的左侧
+e:\reinforce learning\timenet2statetree\timenet2statetree\updateresidencetime.cpp(29): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+  正在生成代码...
+  TimeNet2stateTree.vcxproj -> E:\reinforce learning\TimeNet2stateTree\x64\Debug\TimeNet2stateTree.exe
